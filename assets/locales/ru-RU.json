@@ -1,0 +1,110 @@
+{
+  "legal": {},
+  "bar": {
+    "btn": "Главная"
+  },
+  "bar1": {
+    "btn": "Документация"
+  },
+  "bar2": {
+    "btn": "Отчёты"
+  },
+  "bar3": {},
+  "bar4": {},
+  "barRight": {
+    "btnRegistration": "регистрация"
+  },
+  "barRight1": {
+    "btnLogOut": "выйти"
+  },
+  "gt": {
+    "required": "Обязательный"
+  },
+  "login": {
+    "userName": "Имя пользователя",
+    "password": "Пароль",
+    "signbutton": "Войти",
+    "title": "Войти в систему"
+  },
+  "terminal": {
+    "repayments": " Погашения через терминал"
+  },
+  "nav": {
+    "reguestCredit": "Запросить Кредит",
+    "Supportservice": "Служба поддержки"
+  },
+  "blacklist": {
+    "search": "Поиск в черном списке",
+    "name": "Поиск по имени",
+    "percentage": "Процент",
+    "count": "Счётчик:",
+    "search_btn": "поиск",
+    "birth": "Дата рождения",
+    "print": "Печать",
+    "searchedby": "Искал:",
+    "name2": "Имя",
+    "searchdate": "Дата поиска:"
+  },
+  "crif": {
+    "name_crif": "КИБТ"
+  },
+  "settings": {
+    "name": "Настройки",
+    "syncnbt": "Синхронизация с нбт"
+  },
+  "document": {
+    "name": "Документы"
+  },
+  "forms": {
+    "name": "Формы"
+  },
+  "swift": {
+    "loan": "Быстрый займ"
+  },
+  "dynamictable": {
+    "addButton": "Добавить",
+    "deleteButton": "Удалить",
+    "filterButton": "Фильтр",
+    "settingsButton": "Настройки",
+    "updateButton": "Обновить",
+    "exportButton": "Экспорт",
+    "changeButton": "Изменить",
+    "created": "Создано",
+    "branch": "Филиал",
+    "createdby": "Сделано",
+    "description": "Описание",
+    "forwhom": "Для кого",
+    "name": "Имя",
+    "priority": "Приоритет",
+    "status": "Статус",
+    "updated": "Обновлено",
+    "updatedby": "Автор обновления",
+    "cancel": "Отмена",
+    "default": "По умолчанию",
+    "save": "сохранить",
+    "itemsperpage": "Пункты на странице:"
+  },
+  "requestCreditList": {
+    "name": "Заявки на кредит"
+  },
+  "card": {
+    "request_credits": "Заявка",
+    "declaration": "Декларация",
+    "protocol": "Решение",
+    "order": "Ордер"
+  },
+  "cardTabName": {
+    "forms_info": "Техническая информация",
+    "forms_info_credit": "Информация по кредиту",
+    "forms_other_data": "Другие данные",
+    "forms_credit_scoring": "Кредитный скоринг",
+    "forms_address": "Адрес",
+    "forms_request": "Заявки",
+    "forms_call": "Звонки"
+  },
+  "customers": {
+    "name": "Клиенты",
+    "address": "Адрес проживания - Город/Район",
+    "registration_address": "Адрес регистрации - Город/Район"
+  }
+}

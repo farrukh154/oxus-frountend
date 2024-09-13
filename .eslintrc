@@ -1,0 +1,9 @@
+{
+  "extends": ["@nuxtjs/eslint-config-typescript", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "vue/no-multiple-template-root": "off",
+    "vue/max-len": ["error", {"code": 120, "template": 120}]
+  }
+}

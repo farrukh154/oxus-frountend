@@ -1,0 +1,110 @@
+{
+  "legal": {},
+  "bar": {
+    "btn": "Home"
+  },
+  "bar1": {
+    "btn": "Documentation"
+  },
+  "bar2": {
+    "btn": "Reports"
+  },
+  "bar3": {},
+  "bar4": {},
+  "barRight": {
+    "btnRegistration": "log in"
+  },
+  "barRight1": {
+    "btnLogOut": "log out"
+  },
+  "gt": {
+    "required": "Required"
+  },
+  "login": {
+    "userName": "User name",
+    "password": "Password",
+    "signbutton": "Log in",
+    "title": "Sign in to system"
+  },
+  "terminal": {
+    "repayments": "Repayments via terminal"
+  },
+  "nav": {
+    "reguestCredit": "Request Credit",
+    "Supportservice": "Support service"
+  },
+  "blacklist": {
+    "search": "Blacklist search",
+    "name": "Search name",
+    "percentage": "Percentage",
+    "count": "Count:",
+    "search_btn": "search",
+    "birth": "Date of birth",
+    "print": "Print",
+    "searchedby": "Searched by:",
+    "name2": "Name",
+    "searchdate": "Search date:"
+  },
+  "crif": {
+    "name_crif": "CRIF"
+  },
+  "settings": {
+    "name": "Settings",
+    "syncnbt": "synchronization with NBT"
+  },
+  "document": {
+    "name": "Documents"
+  },
+  "forms": {
+    "name": "Forms"
+  },
+  "swift": {
+    "loan": "Swift loan"
+  },
+  "dynamictable": {
+    "addButton": "Add",
+    "deleteButton": "Delete",
+    "filterButton": "Filter",
+    "settingsButton": "Settings",
+    "updateButton": "Update",
+    "exportButton": "Export",
+    "changeButton": "Change",
+    "created": "Created",
+    "branch": "Branch",
+    "createdby": "Created by",
+    "description": "Description",
+    "forwhom": "For whom",
+    "name": "Name",
+    "priority": "Priority",
+    "status": "Status",
+    "updated": "Updated ",
+    "updatedby": "Updated by",
+    "cancel": "Cancel",
+    "default": "Default",
+    "save": "save",
+    "itemsperpage": "Items perr page:"
+  },
+  "requestCreditList": {
+    "name": "Loan applications"
+  },
+  "card": {
+    "request_credits": "Request",
+    "declaration": "Declaration",
+    "protocol": "Solutions",
+    "order": "Order"
+  },
+  "cardTabName": {
+    "forms_info": "Technical information",
+    "forms_info_credit": "Credit information",
+    "forms_other_data": "Other data",
+    "forms_credit_scoring": "Credit scoring",
+    "forms_address": "Address",
+    "forms_request": "Requests",
+    "forms_call": "Calls"
+  },
+  "customers": {
+    "name": "Customers",
+    "address": "Residential address - City/District",
+    "registration_address": "Registration address - City/District"
+  }
+}

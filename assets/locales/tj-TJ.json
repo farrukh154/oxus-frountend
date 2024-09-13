@@ -1,0 +1,95 @@
+{
+  "legal": {},
+  "bar": {
+    "btn": "Аввал"
+  },
+  "bar2": {
+    "btn": "Ҳисоботҳо"
+  },
+  "crif": {
+    "name_crif": "КИБТ"
+  },
+  "settings": {
+    "name": "Танзимотҳо",
+    "syncnbt" : "ҳамоҳангсозӣ бо БМТ"
+  },
+  "document": {
+    "name": "Ҳуҷҷатгузорӣ"
+  },
+  "swift": {
+    "loan": "Карзи фаъори"
+  },
+  "blacklist": {
+    "search": "Ҷустуҷӯ дар рӯйхати сиёҳ",
+    "name": "Ҷустуҷӯи номи",
+    "name2": "Ном",
+    "percentage": "Фоиз",
+    "count": "Шумор:",
+    "search_btn": "ҷустуҷӯ",
+    "birth": "Санаи таввалуд",
+    "print": "Чоп",
+    "searchdate": "Санаи ҷустуҷӯ:",
+    "searchedby": "Ҷустуҷӯ аз ҷониби:"
+  },
+  "terminal": {
+    "repayments": "Пардохтҳо тавассути терминал"
+  },
+  "nav": {
+    "reguestCredit": "Дархости кредит",
+    "Supportservice": "Хадамоти дастгирӣ"
+  },
+  "login": {
+    "userName": "Номи корбар",
+    "password": "Рамз",
+    "signbutton": "Даромадан",
+    "title": "Воридшави ба система"
+  },
+  "gt": {
+    "required": "Зарур"
+  },
+  "dynamictable": {
+    "addButton": "Илова кардан",
+    "updateButton": "Нав кардан",
+    "filterButton": "Филтр",
+    "settingsButton": "Танзимотҳо",
+    "deleteButton": "Нест кардан",
+    "exportButton": "Экспорт",
+    "changeButton": "тағир додан",
+    "name": "Ном",
+    "status": "Статус",
+    "priority": "Афзалият",
+    "branch": "Филиал",
+    "created": "Офарид",
+    "updated": "Нав карда шуд",
+    "createdby": "Эҷод кардааст",
+    "updatedby": "Навсозии",
+    "forwhom": "Барои ки",
+    "description": "Тавсиф",
+    "default": "пешфарз",
+    "save": "сохранить",
+    "cancel": "отмена"
+  },
+  "requestCreditList": {
+    "name": "Аризахо"
+  },
+  "card": {
+    "request_credits": "Дархост",
+    "declaration": "Декларатсия",
+    "protocol": "ҳал",
+    "order": "Фармон"
+  },
+  "cardTabName": {
+    "forms_info": "Маълумоти техникӣ",
+    "forms_info_credit": "Маълумот дар бораи қарз",
+    "forms_other_data": "Маълумоти дигар",
+    "forms_credit_scoring": "баҳои кредитӣ",
+    "forms_address": "Суроға",
+    "forms_request": "Дархостхо",
+    "forms_call": "Зангхо"
+  },
+  "customers": {
+    "name": "Мизочхо",
+    "address": "Суроғаи ҷойи зист - Шаҳр/Ноҳия",
+    "registration_address": "Суроғаи бақайдгири - Шаҳр/Ноҳия"
+  }
+}
